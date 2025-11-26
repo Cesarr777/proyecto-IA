@@ -24,7 +24,7 @@ ChatBIA se enfoca únicamente en temas relacionados con el espectro autista, per
 AudiFeel es desarrollado por el siguiente equipo:
 
 - **Edgar Molina Fabela**  
-- **Enrique Rodríguez**  
+- **Garinel Enrique Rodríguez Guerrero**  
 - **Peñuelas Cardenas Cesar Alexis**    
 - **Ángel Quiñonez Agramon**  
 - **Eric Said Mora López**
