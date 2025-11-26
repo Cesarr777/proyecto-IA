@@ -26,7 +26,7 @@ AudiFeel es desarrollado por el siguiente equipo:
 - **Edgar Molina Fabela**  
 - **Enrique Rodríguez**  
 - **Peñuelas Cardenas Cesar Alexis**    
-- **Ángel**  
+- **Ángel Quiñonez Agramon**  
 - **Eric Said Mora López**
 
 ---
